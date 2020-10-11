@@ -7,7 +7,7 @@ The objective of this playground competition is to use binary leaf images to acc
 
 There will be train.csv, test.csv, and 1584 images in a folder. We need these CSV files to split images into train and test files.
 
-Images are binary like theses:
+Images are binary like these:
 
 ![Result](1.jpg)
 ![Result](9.jpg)
